@@ -1,0 +1,7 @@
+a:active~p{
+ display: block;
+}
+p{
+    display: none;
+    color:royalblue;
+}

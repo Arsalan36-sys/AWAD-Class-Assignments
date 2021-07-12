@@ -1,0 +1,30 @@
+a:visited,
+a: link{
+    color: yellow;
+}
+a:hover,
+a:focus{
+    color: darkred;
+}
+p::first-letter{
+    font-weight: bold;
+}
+p::first-line{
+    font-weight: bold;
+}
+::selection{
+    background-color: deeppink;
+}
+p::before{
+    content: '...';
+}
+#pro {
+    color: rgb(0, 255, 55);
+}
+#pro > p {
+    color: rgb(98, 56, 175);
+}
+#pro + p{
+    color: rgb(12, 
+     +;
+}
