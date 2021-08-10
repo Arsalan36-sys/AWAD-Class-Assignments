@@ -1,0 +1,19 @@
+*{
+    font-family: 'Lobster', cursive;
+    background-color: rgb(128, 176, 240);
+}
+ul li a:hover{
+    background-color: white;
+}
+#p {
+    width: 20rem;
+    height: auto;
+    margin-left: 5rem;
+}
+#ab{
+    padding-right: 8rem;
+}
+.img {
+    height:auto;
+    width: 50%;
+}
